@@ -120,3 +120,30 @@
   border-radius: 8px;
   cursor: pointer;
 }
+
+.not-found {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.not-found h2 {
+  font-size: 20px;
+  color: #000;
+  margin-bottom: 30px;
+}
+
+.not-found p {
+  font-size: 20px;
+  color: #000;
+  margin-bottom: 30px;
+}
+
+.not-found link {
+  background: #f1356d;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
